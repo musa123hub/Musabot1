@@ -17,16 +17,16 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ULLASHInfo = {
-				name: '𝐮 𝐥 𝐥 𝐚 𝐬 𝐡 ッ',
+				name: 'musa',
 				gender: '𝐌𝐚𝐥𝐞',
-				age: '21',
-				Tiktok: 'ullash01',
+				age: '17',
+				Tiktok: 'musa_____1',
 				Relationship: '𝐢𝐧 𝐜𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝',
 				religion: '𝐈𝐬𝐥𝐚𝐦',
-				facebook: 'https://www.facebook.com/profile.php?id=100086680386976'
+				facebook: 'https://www.facebook.com/profile.php?id=61573668065509'
 			};
 
-			const ULLASH = 'https://files.catbox.moe/do2kb3.jpeg';
+			const ULLASH = 'https://litter.catbox.moe/nro45ku8um9xxfys.png';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
