@@ -30,14 +30,14 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𓆩AHMED-RAJIB𓆪",
+  "nickNameBot": "𝙈𝙐𝙎𝘼 ᵇᵒᵗ",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "61584707787920",
+        "61573668065509",
         "61584707787920"
       ]
     }
